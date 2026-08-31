@@ -331,7 +331,7 @@ rehearsal at the top of the print. The next morning it runs for real off the sam
 **First, ask for what you cannot open, all of it in one message.** The classroom thread and the
 cold-email tool are not on this laptop, and the day's real numbers exist nowhere else.
 
-- **Yesterday's four lines,** as posted. On the first morning do not ask.
+- **Yesterday's four lines,** as posted; a founder who says "as drafted" means the draft went out unchanged, and that answer is complete. On the first morning do not ask.
 - **In OUTREACH, once the cold-email skill is running, yesterday's sent count from it.** That is
   the squad-sent ninety, the larger half of the day, and nothing here produces it.
 - **In CONTENT, what came back on yesterday's piece,** if anything did. It lives on the platform
