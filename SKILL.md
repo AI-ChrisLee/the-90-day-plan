@@ -30,13 +30,17 @@ $100M Leads. **The skill, the file and the repo say 90 and the plan runs to day 
 of 100 sets the length and 90 is the name. Say that once if the founder asks, and never rename
 `squad/90-day-plan.md` to match.
 
-**ADS is locked until money has been received,** because ads amplify a thing that already
-sells. It prints as GATED, never gets graded, and belongs to the ads track when it opens.
+**ADS is gated on its budget, not on history:** $3,000 a month, the Rule of 100 at $100 a day.
+Ask once, out loud: can you put $3,000 a month into ads for the next three months without
+touching rent, and where does that money come from? A yes with a named source puts ADS into the
+grading. Anything else prints as GATED, with the question as the reason, and the ads track
+holds the argument (a1).
 
 | Lane | The daily 100 | Your squad runs | The founder does |
 |---|---|---|---|
 | OUTREACH | 100 reach-outs a day: about 90 cold emails from one sequence, about 10 human touches | The list, the research, the message copy, the sequence, sorting the replies | Approves the list, starts the ninety in their own cold-email tool, sends the ten by hand |
 | CONTENT | 100 minutes a day making, one piece published daily | Mining winners, packaging, the script, the deck, the count | Records once a week, cuts and posts by hand, sends the floor's ten |
+| ADS (only when its budget question came back yes) | $100 a day approved and held flat | Mining the winning ads, the creative, the campaign build, the three-number report | Approves the budget and the creative, sends the floor's ten |
 
 **The ninety are not yours to send and not yours to start.** Sending, the inboxes and the
 compliance belong to the outreach track's own cold-email skill, which installs the day after this
@@ -105,9 +109,12 @@ the read before it becomes a decision, because a plan on a wrong read costs a qu
 
 ## 2 · THE LANE
 
-Two lanes get graded, OUTREACH and CONTENT; ADS prints as GATED with the gate said out loud.
-Three signals, each 0, 1 or 2 against the read you just did. The sum orders the two, and the
-tiebreaker outranks the sum wherever it reads at all.
+OUTREACH and CONTENT always grade. ADS joins only when its budget question came back yes with a
+named source; otherwise it prints as GATED with the gate said out loud. Three signals, each 0, 1
+or 2 against the read you just did. The sum orders the lanes, and the tiebreaker outranks the
+sum wherever it reads at all. When ADS is in the grading it wins only on money plus proof: the
+budget AND a message that already made money for the first ad to remix. One without the other
+caps its WHAT THE OFFER NEEDS at 1, and the recommendation names the missing half.
 
 | Signal | 2 | 1 | 0 |
 |---|---|---|---|
