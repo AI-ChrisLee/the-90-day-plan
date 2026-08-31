@@ -161,9 +161,11 @@ never take the most recent one.
 3. **It does not read, and the sum favors CONTENT by two or more.** Take CONTENT, and say
    plainly in the recommendation that this one is chosen over the top of the money evidence on
    signals 1 to 3, because three weeks of warm messages cannot produce a content signal.
-4. **Anything else,** including no priced calls at all. Take OUTREACH: a hundred days of cold
-   email tells you whether the offer is real, a hundred days of content sometimes tells you only
-   that the thumbnails were bad.
+4. **Anything else,** including no priced calls at all, means the evidence reads nothing. Say
+   that out loud instead of pretending the data picked. Then hand the call to the founder with
+   one question: on your worst day, which of these would you still run? Their answer is the
+   lane, their sentence is the reasoning in the plan, and you write it with the same care as a
+   lane the data picked.
 
 **STOP · one recommendation.** Print the grade table, then one lane, the reasoning in three
 lines, and why each other graded lane loses for this founder specifically. Never a menu, never "it depends",
