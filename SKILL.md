@@ -10,13 +10,13 @@ own evidence, plans the days, and every morning says what to do today.**
 
 Two lines you never cross. **You never send:** no email, no DM, no post, no scheduled send, no
 automation. You prepare the day; their hand presses send. **You never overrule the founder:**
-you recommend once, with the reasoning and why the other lane loses for them, and then they
+you recommend once, with the reasoning and why each other lane loses for them, and then they
 decide, including against you. What they do not get to do is stay undecided.
 
 This skill runs in ANY founder's repo. Read `.claude/squad-roots.md` first, the instance file
 every member-run skill shares (founder name, brand words, niche, lane, paths, timezone). Its
 values win over the `squad/` paths below, which are worked examples. Three rows are yours, and
-you are the only skill that reads them: `daily lane` (OUTREACH or CONTENT) at the phase 2 gate,
+you are the only skill that reads them: `daily lane` (OUTREACH, CONTENT or ADS) at the phase 2 gate,
 which is what stops a lane decided on Tuesday from reopening on Thursday, then `term day 1`
 holding the date their 180 days started and `day 100` holding the date the hundred ends, both
 written at the phase 3 gate so a session resuming in week six reads them instead of recounting.
@@ -72,9 +72,10 @@ floor asks for.
 Phases 1 to 4 run at the top of the hundred days; 5 and 6 are where the founder lives after.
 Small questions wait for a gate. **Resuming:** continue at the first output missing, so no lane
 decided is phase 1, a lane with no `squad/90-day-plan.md` is phase 3, and a plan whose lane has
-no approved supply for this week is phase 4. The supply is `squad/cold-list.md` in OUTREACH and
-the week's approved topic, recording slot and ten names in CONTENT, so check the lane's own supply and
-never `squad/cold-list.md` for a founder who is not in OUTREACH. Never re-run 1 to 3, and never
+no approved supply for this week is phase 4. The supply is `squad/cold-list.md` in OUTREACH, the week's approved
+topic, recording slot and ten names in CONTENT, and in ADS the a2 money card plus the creative
+queue the ads track builds, so check the lane's own supply and never `squad/cold-list.md` for a
+founder who is not in OUTREACH. Never re-run 1 to 3, and never
 reopen the lane before day 100.
 
 ## 1 · THE READ
@@ -114,7 +115,7 @@ named source; otherwise it prints as GATED with the gate said out loud. Three si
 or 2 against the read you just did. The sum orders the lanes, and the tiebreaker outranks the
 sum wherever it reads at all. When ADS is in the grading it wins only on money plus proof: the
 budget AND a message that already made money for the first ad to remix. One without the other
-caps its WHAT THE OFFER NEEDS at 1, and the recommendation names the missing half.
+and ADS cannot take the recommendation; it stays in the print with the missing half named.
 
 | Signal | 2 | 1 | 0 |
 |---|---|---|---|
@@ -122,8 +123,8 @@ caps its WHAT THE OFFER NEEDS at 1, and the recommendation names the missing hal
 | WHAT YOU CAN SUSTAIN AT YOUR WORST | Doable on the day the kid is sick and you slept five hours | Doable on a normal day | You already know you would skip it |
 | WHAT THE OFFER NEEDS | The offer sells the way this lane sells | Workable | The offer needs the thing this lane cannot give it |
 
-Grade signal 2 by asking one question, never by guessing: on your worst day, which of these two
-would feel like punishment? The other is the answer, and their sentence goes in the plan. For
+Grade signal 2 by asking one question, never by guessing: on your worst day, which of these
+would feel like punishment? Cross that one down to 0, and their sentence goes in the plan. For
 signal 3: a priced service sold to a named business needs the right people to know it exists,
 and that is outreach; an offer that needs trust before the price lands, or one whose buyer the
 founder still cannot name, needs content, slower to first money and better at compounding.
@@ -153,16 +154,19 @@ never take the most recent one.
 
 **The order, and nothing below reopens it.**
 
-1. **The tiebreaker reads.** Take the lane it points at, whatever the sum said.
-2. **It does not read, and the sum favors CONTENT by two or more.** Take CONTENT, and say
+1. **ADS reads first, when it is in the grading.** Both halves present, the funded budget and a
+   message that already made money, and ADS takes the recommendation with both named. Either
+   half missing and ADS cannot win: name the missing half and continue below.
+2. **The tiebreaker reads.** Take the lane it points at, whatever the sum said.
+3. **It does not read, and the sum favors CONTENT by two or more.** Take CONTENT, and say
    plainly in the recommendation that this one is chosen over the top of the money evidence on
    signals 1 to 3, because three weeks of warm messages cannot produce a content signal.
-3. **Anything else,** including no priced calls at all. Take OUTREACH: a hundred days of cold
+4. **Anything else,** including no priced calls at all. Take OUTREACH: a hundred days of cold
    email tells you whether the offer is real, a hundred days of content sometimes tells you only
    that the thumbnails were bad.
 
 **STOP · one recommendation.** Print the grade table, then one lane, the reasoning in three
-lines, and why the other loses for this founder specifically. Never a menu, never "it depends",
+lines, and why each other graded lane loses for this founder specifically. Never a menu, never "it depends",
 never two lanes kept as a hedge. They can overrule you, and if they do you write their lane with
 the same care and drop your argument entirely. The moment they say the word, write the `daily
 lane` row into `.claude/squad-roots.md`; a decision living only in a chat gets reopened Thursday.
@@ -194,7 +198,8 @@ on the day 100 date. One file, one counting.
    rests on. That standard is ten by hand a day and it is not yours to lower. In OUTREACH the
    lane's hundred carries it; in CONTENT the hundred is minutes and a published piece is not a
    reach-out, so the ten still get sent by hand on top of the lane, off the named source phase 4
-   approves.
+   approves. In ADS the hundred is dollars and an impression is not a reach-out either, so the
+   same ten ride on top, off the NOT NOW pile until the campaign's own leads replace them.
 4. **THE WEEKLY SHAPE.** The named calendar block at a fixed hour (outreach at 9am beats
    outreach sometime), five working days of the daily 100, the Sunday row, and **every hot seat
    held that week**, each with the `Stuck` line already written. The guarantee promises a count
@@ -306,7 +311,9 @@ winning with their buyers right now, and you print what it decided. The ten stay
 **STOP, and there is one for each lane.** In OUTREACH the founder reads the ten names and the
 message that goes with each, cuts the wrong ones, and says the list is theirs. In CONTENT they
 say the topic back in one sentence, name the recording hour out loud, and read the week's ten
-names the same way the outreach founder reads theirs. Write the approved
+names the same way the outreach founder reads theirs. In ADS nothing gets built here: the supply
+is the creative pipeline the ads track builds and approves (a3), so the founder reads only the
+week's ten names, and the WEEK N block carries the pointer. Write the approved
 supply into `squad/90-day-plan.md` under the week's `## WEEK N` block. Only approved supply
 reaches a morning.
 
@@ -353,7 +360,7 @@ sentence: yesterday's `Stuck` line, the row that went quiet, the piece that did 
 
 | | |
 |---|---|
-| The lane's outward motions | Today's share of the daily 100, ready to run. In OUTREACH, the ten named rows off the approved list with their messages ready to copy, and until the cold-email skill is installed those ten are the whole hundred, printed as such. In CONTENT, the piece and the minutes it needs, plus the day's ten named off the source approved in phase 4, messages drafted the same way, never ten blank slots the founder is asked to fill at eight in the morning |
+| The lane's outward motions | Today's share of the daily 100, ready to run. In OUTREACH, the ten named rows off the approved list with their messages ready to copy, and until the cold-email skill is installed those ten are the whole hundred, printed as such. In CONTENT, the piece and the minutes it needs, plus the day's ten named off the source approved in phase 4, messages drafted the same way, never ten blank slots the founder is asked to fill at eight in the morning. In ADS, the spend to hold flat today, any creative waiting for the founder's approval, and the day's ten named the same way |
 | Follow-ups due | Every row whose date is today, off `NEXT TOUCH` in `squad/cold-list.md` and the next-touch field in `squad/pipeline.md`. You draft each one off what went out last and what came back, one line recalling that, and you set the row's next date. The founder sends it by hand like everything else |
 
 **The founder reads it, adjusts one thing, and goes.** One adjustment, not a rewrite. Then they
@@ -371,9 +378,10 @@ Stuck:    one line, or "nothing"
 ```
 
 `Shipped` is only what went outward; learned, planned and prepared do not count. `Number` is
-numbers only and zero is written as zero. **`sent` carries one format in both lanes: the hand-sent
+numbers only and zero is written as zero. **`sent` carries one format in every lane: the hand-sent
 number first, labeled, and the lane's other half after it, never summed into one figure.** In
-OUTREACH that is `sent 10 by hand · 90 by sequence`, in CONTENT `sent 10 by hand · 1 piece`. The
+OUTREACH that is `sent 10 by hand · 90 by sequence`, in CONTENT `sent 10 by hand · 1 piece`, in
+ADS `sent 10 by hand · creatives live`. The
 guarantee counts both halves as reach-outs where they reach a named human, but requirement 4 is
 adjudicated mechanically off this log, and this plan's standard is the hand number, so the hand
 number has to be readable on its own line every day. The block above shows a day before the
@@ -426,6 +434,8 @@ last two read the same in either:
 | CONTENT · published every day, almost nobody watched | The packaging. The title and the picture, not the piece |
 | CONTENT · watched, and nothing came back | The ask at the end. There is not one, or answering it costs too much |
 | CONTENT · replies came, no call got booked | The close |
+| ADS · spend held flat, cost per lead climbing week over week | The creative. Remix the message that made money, kill the invention |
+| ADS · leads came, nothing booked | The close, and a4's Sunday read carries the three numbers into this same row |
 | Either lane · objections stacked on price | The offer or the proof. Not the price |
 | Either lane · a not-now pile nobody has touched | The founder. Go work the dates |
 
