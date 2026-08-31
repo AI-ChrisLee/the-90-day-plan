@@ -424,7 +424,7 @@ condition, and the hand number stays readable because that is the one the plan's
 
 **The bottleneck comes off the week's counts, never off feel.** Count the week's replies by the
 bucket the close sorted them into, then read the shape. The first rows belong to the lane; the
-last two read the same in either:
+last two read the same in any lane:
 
 | What the week's counts show | What is actually broken |
 |---|---|
@@ -436,8 +436,8 @@ last two read the same in either:
 | CONTENT · replies came, no call got booked | The close |
 | ADS · spend held flat, cost per lead climbing week over week | The creative. Remix the message that made money, kill the invention |
 | ADS · leads came, nothing booked | The close, and a4's Sunday read carries the three numbers into this same row |
-| Either lane · objections stacked on price | The offer or the proof. Not the price |
-| Either lane · a not-now pile nobody has touched | The founder. Go work the dates |
+| Any lane · objections stacked on price | The offer or the proof. Not the price |
+| Any lane · a not-now pile nobody has touched | The founder. Go work the dates |
 
 One line, the sharpest one, and stop. The bottleneck line is the agenda for the next hot seat,
 so write it the way you would hand it to somebody who had ten minutes and wanted to help.
