@@ -31,10 +31,12 @@ of 100 sets the length and 90 is the name. Say that once if the founder asks, an
 `squad/90-day-plan.md` to match.
 
 **ADS is gated on its budget, not on history:** $3,000 a month, the Rule of 100 at $100 a day.
-Ask once, out loud: can you put $3,000 a month into ads for the next three months without
-touching rent, and where does that money come from? A yes with a named source puts ADS into the
-grading. Anything else prints as GATED, with the question as the reason, and the ads track
-holds the argument (a1).
+Check `.claude/squad-roots.md` for an `ads gate` row first (a1's run writes it: open or shut,
+the funding source, the date). A row that says open counts as the yes. No row: ask once, can
+you put $3,000 a month into ads for the next three months without touching rent, and where
+does that money come from, then write the answer into that row yourself, dated. A yes with a
+named source puts ADS into the grading. Anything else prints as GATED, with the question as
+the reason, and the ads track holds the argument (a1).
 
 | Lane | The daily 100 | Your squad runs | The founder does |
 |---|---|---|---|
@@ -73,7 +75,7 @@ Phases 1 to 4 run at the top of the hundred days; 5 and 6 are where the founder 
 Small questions wait for a gate. **Resuming:** continue at the first output missing, so no lane
 decided is phase 1, a lane with no `squad/90-day-plan.md` is phase 3, and a plan whose lane has
 no approved supply for this week is phase 4. The supply is `squad/cold-list.md` in OUTREACH, the week's approved
-topic, recording slot and ten names in CONTENT, and in ADS the a2 money card plus the creative
+topic, recording slot and ten names in CONTENT, and in ADS the a2 money card at `squad/ads-money-card.md` plus the creative
 queue the ads track builds, so check the lane's own supply and never `squad/cold-list.md` for a
 founder who is not in OUTREACH. Never re-run 1 to 3, and never
 reopen the lane before day 100.
