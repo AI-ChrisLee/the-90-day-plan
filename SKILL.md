@@ -87,7 +87,7 @@ beats any opinion either of you has.
 |---|---|
 | `squad/business.md` | The offer card: who it is for, the promise, the price, the plan |
 | `squad/warm-list.md` and `squad/warm/drafts/` | Every name listed and graded, and what each drafted touch said |
-| The Warm CRM sheet | How many went out, on what channel, who replied, which became a real conversation. It is their Google Sheet and not a file here, so ask them to paste `Who they are`, `First message sent`, `Reply`, `Follow-up, day 4`, `Follow-up, day 9` and `Status` for every row. That is column 1 and columns 6 to 10, and the paste is positional across them, so a row pasted without column 1 cannot be tied to a person and gets asked for again. Column order is the warm start's `references/warm-crm.md` |
+| The Outreach Sheet (Warm tab) | How many went out, on what channel, who replied, which became a real conversation. It is their Google Sheet and not a file here, so ask them to paste the Warm tab whole, all seven columns from `Who they are` through `Next touch`, for every row. The paste is positional across them, so a row pasted without column 1 cannot be tied to a person and gets asked for again. Column order is the warm start's `references/outreach-sheet.md` |
 | `squad/warm-notes.md` | What buyers said in their own words, verbatim |
 | `squad/pipeline.md` and `squad/calls/` | Each reply's source (warm or cold, and where), every call where a price was said, its five gate grades, its verdict |
 
@@ -260,8 +260,8 @@ blank stays blank rather than being guessed.
 
 The warm list's WARMTH, KNOWS, RECENT and NEED do not transfer, because nothing about a stranger
 off a map search can be graded against a working line. **`STATUS` and `TOUCHED` here are where a
-cold row gets marked.** The Warm CRM is warm work only, and `squad/pipeline.md` gets a row the
-day a reply lands, not before.
+cold row gets marked.** The Outreach Sheet's Warm tab is warm work only, and `squad/pipeline.md`
+gets a row the day a reply lands, not before.
 
 **A cold row that never answers still owes two more touches, and `NEXT TOUCH` is what carries
 them.** Same spacing the warm start used, day 4 after the first touch and day 9 after that, since
@@ -340,12 +340,12 @@ cold-email tool are not on this laptop, and the day's real numbers exist nowhere
 If either of the first two has not come, ask once and wait. **No number, no print.** A morning
 printed off a guessed number puts a number in the guarantee's log that nobody logged.
 
-**The warm sheet is not a daily ask.** The warm list is spent, cold rows get marked in
-`squad/cold-list.md`, and a founder pasting forty unchanged rows every morning at eight is doing
-dead work for a file nothing reads back. Ask for `Who they are`, `Status` and `Reply` for the rows
-still alive only, meaning `TALKING` or `NOT NOW`, and only on a morning the founder says one of
-them moved. That paste is positional across those three columns, so a row without column 1 gets
-asked for again. Everything alive after a reply also has a row in `squad/pipeline.md`, which the
+**The Outreach Sheet's Warm tab is not a daily ask.** The warm list is spent, cold rows get
+marked in `squad/cold-list.md`, and a founder pasting forty unchanged rows every morning at eight
+is doing dead work for a file nothing reads back. Ask for `Who they are`, `Reply` and `Status`
+for the rows still alive only, meaning `TALKING` or `NOT NOW`, and only on a morning the founder
+says one of them moved. That paste is positional across those three columns, so a row without
+column 1 gets asked for again. Everything alive after a reply also has a row in `squad/pipeline.md`, which the
 close keeps with a next-touch date and which is on this laptop; read it there instead of asking.
 
 **Then read what is here:** the plan, the lane's supply (`squad/cold-list.md` in OUTREACH, the
