@@ -86,8 +86,8 @@ beats any opinion either of you has.
 | Source | What you pull out of it |
 |---|---|
 | `squad/business.md` | The offer card: who it is for, the promise, the price, the plan |
-| `squad/warm-list.md` and `squad/warm-notes.md` | Every name ranked, and every quote the calls produced |
-| The Outreach Sheet (Warm tab) | How many went out, on what channel, who replied, which became a real conversation. It is their Google Sheet and not a file here, so ask them to paste the Warm tab whole, all seven columns from `Who they are` through `Next touch`, for every row. The paste is positional across them, so a row pasted without column 1 cannot be tied to a person and gets asked for again. Column order is the warm start's `references/outreach-sheet.md` |
+| `squad/warm-notes.md`, plus `squad/warm-list.md` if it exists | Every quote the calls produced, and any mined name list |
+| The Outreach Sheet (Warm tab) | How many went out, on what channel, who replied, which became a real conversation. It is their Google Sheet and not a file here, so ask them to paste the Warm tab whole, all seven columns from `Who they are` through `Next touch`, for every row. The paste is positional across them, so a row pasted without column 1 cannot be tied to a person and gets asked for again. Column order: Who they are, How you know them, First message sent, Reply, What they said on the call, Status, Next touch |
 | `squad/warm-notes.md` | What buyers said in their own words, verbatim |
 | `squad/pipeline.md` and `squad/calls/` | Each reply's source (warm or cold, and where), every call where a price was said, its five gate grades, its verdict |
 
@@ -411,12 +411,15 @@ condition is read off, so an invented one is worse than a blank week.
 total disagrees with the daily numbers, the daily numbers win: they were written on the day.
 
 ```
-Week 5 / 24
+Week 5 / 24  (Sunday)
+[screenshot of the Outreach Sheet's COUNT]
 Sent:      42 this week · 210 total
 Replies:   6
 Calls:     2
 Money:     $0
-One bottleneck for next week: (one line)
+Bottleneck: (one line)
+Fix next week: (one line)
+Question:   (one line, taken into the hot seat)
 ```
 
 `Sent` follows the daily line's format, both halves labeled and neither one summed away:
