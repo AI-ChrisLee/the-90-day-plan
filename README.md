@@ -21,7 +21,7 @@ Install this skill: https://github.com/AI-ChrisLee/the-90-day-plan
 Clone it into my skills folder as the-90-day-plan.
 ```
 
-Then open a NEW session.
+Then type / and look for it; it normally shows up right away, and a new session brings it up if not.
 
 ```bash
 git clone https://github.com/AI-ChrisLee/the-90-day-plan ~/.claude/skills/the-90-day-plan
