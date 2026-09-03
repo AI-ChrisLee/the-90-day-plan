@@ -20,7 +20,7 @@ cold-email tool are not on this laptop, and the day's real numbers exist nowhere
   and not here. A silent piece is an answer, so this one never blocks the print.
 
 If either of the first two has not come, ask once and wait. **No number, no print.** A morning
-printed off a guessed number puts a number in the guarantee's log that nobody logged.
+printed off a guessed number puts a number in the log that nobody logged.
 
 **The Outreach Sheet's Warm tab is not a daily ask.** The warm list is spent, cold rows get marked
 in `squad/cold-list.md`, and a founder pasting forty unchanged rows every morning at eight is
@@ -63,9 +63,9 @@ Stuck:    one line, or "nothing"
 numbers only and zero is written as zero. **`sent` carries one format in every lane: the hand-sent
 number first, labeled, and the lane's other half after it, never summed into one figure.** In
 OUTREACH that is `sent 10 by hand · 90 by sequence`, in CONTENT `sent 10 by hand · 1 piece`, in
-ADS `sent 10 by hand · creatives live`. The guarantee counts both halves as reach-outs where they
-reach a named human, but requirement 4 is adjudicated mechanically off this log, and this plan's
-standard is the hand number, so the hand number has to be readable on its own line every day. The
+ADS `sent 10 by hand · creatives live`. Both halves are reach-outs where they reach a named
+human, and this log is the only count there is, but this plan's standard is the hand number, so
+the hand number has to be readable on its own line every day. The
 block above shows a day before the sequence was running, which is why its hand number stands
 alone. `Stuck` is one line, and it is the hot seat's agenda. A month of zeros written as zeros is
 the most useful thing this plan will produce.
@@ -80,8 +80,8 @@ script to the payoff script, the slides to the presentation. Say so when you han
 **First, ask for the week, because none of it is a file here.** The founder pastes the seven daily
 blocks as they were posted, in OUTREACH the cold-email skill's sent total for the week, and in
 CONTENT the week's published pieces with whatever the platform reports beside each one. If a paste
-has not come, ask once and wait. **No paste, no row:** the cumulative number inside it is what the
-guarantee's outreach condition is read off, so an invented one is worse than a blank week.
+has not come, ask once and wait. **No paste, no row:** the cumulative number inside it is the only
+record of the term's reach-outs, so an invented one is worse than a blank week.
 
 **Then the row, added up** off those blocks and the pipeline rows behind them. Where a weekly
 total disagrees with the daily numbers, the daily numbers win: they were written on the day.
@@ -100,8 +100,8 @@ Question:   (one line, taken into the hot seat)
 
 `Sent` follows the daily line's format, both halves labeled and neither one summed away:
 `50 by hand · 450 by sequence this week · 1,100 total` in OUTREACH, `50 by hand · 7 pieces this
-week · 1,100 total` in CONTENT. The cumulative reach-out count is the proof behind the outreach
-condition, and the hand number stays readable because that is the one the plan's standard holds.
+week · 1,100 total` in CONTENT. The cumulative reach-out count is the term's record, and the hand
+number stays readable because that is the one the plan's standard holds.
 
 **The bottleneck comes off the week's counts, never off feel.** Count the week's replies by the
 bucket the close sorted them into, then read the shape. The first rows belong to the lane; the
@@ -131,7 +131,7 @@ comes back the cut was not deep enough. Then simplify what survived, accelerate 
 last, always last. The common failure is that list run backwards.
 
 Hand back exactly two things, not five: **one thing deleted, and one change for next week.** Write
-both into that week's `## WEEK N` block in `squad/90-day-plan.md`, N being the guarantee's week
+both into that week's `## WEEK N` block in `squad/90-day-plan.md`, N being the term's week
 number so the file carries one numbering, and never quietly edit an earlier week to match what
 happened.
 

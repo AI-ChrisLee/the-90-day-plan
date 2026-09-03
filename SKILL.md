@@ -43,11 +43,18 @@ $100M Leads. **The skill, the file and the repo say 90 and the plan runs to day 
 100 sets the length and 90 is the name. Say that once if the founder asks, and never rename
 `squad/90-day-plan.md` to match.
 
+**The three are not equal, and the order below is the default this skill grades from.** CONTENT is
+the main lane: it reaches buyers who do not know the founder yet and it compounds. ADS is a main
+lane the day its budget gate is open. OUTREACH cannot be the main lane. It is the last-resort lane
+for a founder with nothing else, easy enough to start that everyone starts it, and hardest now that
+AI writes customized cold email at volume. A founder whose own files carry a cold signal still
+lands in OUTREACH, and section 2 is where that happens.
+
 | Lane | The daily 100 | Your squad runs | The founder does |
 |---|---|---|---|
-| OUTREACH | 100 reach-outs a day: about 90 cold emails from one sequence, about 10 human touches | The list, the research, the message copy, the sequence, sorting the replies | Approves the list, starts the ninety in their own cold-email tool, sends the ten by hand |
 | CONTENT | 100 minutes a day making, one piece published daily | Mining winners, packaging, the script, the deck, the count | Records once a week, cuts and posts by hand, sends the floor's ten |
 | ADS (only when its budget question came back yes) | $100 a day approved and held flat | Mining the winning ads, the creative, the campaign build, the three-number report | Approves the budget and the creative, sends the floor's ten |
+| OUTREACH | 100 reach-outs a day: about 90 cold emails from one sequence, about 10 human touches | The list, the research, the message copy, the sequence, sorting the replies | Approves the list, starts the ninety in their own cold-email tool, sends the ten by hand |
 
 **Half of that squad is not installed on the day this plan is written**, in either lane, and the
 plan prints what is actually runnable instead of a hundred the lane cannot send.
@@ -126,7 +133,7 @@ it beats any opinion either of you has.
 |---|---|
 | `squad/business.md` | The offer document: who it is for, the promise, the price, the plan |
 | `squad/warm-notes.md` | What buyers said in their own words, verbatim, plus `squad/warm-list.md` if it exists |
-| `squad/pipeline.md` and `squad/calls/` | Each reply's source (warm or cold, and where), every call where a price was said, its five gate grades, its verdict |
+| `squad/pipeline.md` and `squad/calls/` | Each reply's source (warm or cold, and where), every call where a price was said, its five gate grades, where it stands |
 | The Outreach Sheet (Warm tab) | How many went out, on what channel, who replied, which became a real conversation |
 
 The sheet is their Google Drive and not a file here, so ask them once, in one message, to paste
@@ -143,7 +150,7 @@ Then label what the data says, and label only. No lane talk yet.
 1. **Where the replies came from.** Channel by channel, counted and not remembered, off the
    paste's `First message sent` column and the source field in `squad/pipeline.md`.
 2. **Who almost paid.** Every priced call by name, how that person arrived, what the debrief
-   graded, and its verdict: closed, next step dated, stalled or dead. The dated ones are live, and
+   graded, and where it stands: closed, next step dated, stalled or dead. The dated ones are live, and
    they get counted as live rather than quietly filed under stalled.
 3. **What they said.** Two or three verbatim lines carrying the reason, the nos included, since a
    no is sharper. "I did not know you existed" is a reach problem; "I just do not know you well
@@ -157,10 +164,11 @@ becomes a decision, because a plan built on a wrong read costs a quarter.
 
 OUTREACH and CONTENT always grade. ADS joins only when its budget question came back yes with a
 named source; otherwise it prints as GATED with the gate said out loud. Three signals, each 0, 1
-or 2 against the read you just did. The sum orders the lanes, and the tiebreaker outranks the sum
-wherever it reads at all. When ADS is in the grading it wins only on money plus proof: the budget
-AND a message that already made money for the first ad to remix. One without the other and ADS
-cannot take the recommendation; it stays in the print with the missing half named.
+or 2 against the read you just did. The sum ranks the lanes in the print, and the order below is
+what recommends; the tiebreaker outranks the sum wherever it reads at all. When ADS is in the
+grading it wins only on money plus proof: the budget AND a message that already made money for the
+first ad to remix. One without the other and ADS cannot take the recommendation; it stays in the
+print with the missing half named.
 
 | Signal | 2 | 1 | 0 |
 |---|---|---|---|
@@ -195,32 +203,39 @@ nos themselves point both ways, or there is one of each and nothing to separate 
 tiebreaker does not read at all: say so out loud and fall to the order below. Never count them and
 never take the most recent one.
 
-**The order, and nothing below reopens it.**
+**First, the worst-day answer. Where the founder named CONTENT as the lane that would feel like
+punishment, CONTENT is off the table for every step below, and their sentence is the reasoning in
+the plan.**
+
+**Then, the order, and nothing below reopens it.**
 
 1. **ADS reads first, when it is in the grading.** Both halves present, the funded budget and a
    message that already made money, and ADS takes the recommendation with both named. Either half
    missing and ADS cannot win: name the missing half and continue below.
-2. **The tiebreaker reads.** Take the lane it points at, whatever the sum said.
-3. **It does not read, and the sum favors CONTENT by two or more.** Take CONTENT, and say plainly
-   in the recommendation that this one is chosen over the top of the money evidence on signals 1
-   to 3, because three weeks of warm messages cannot produce a content signal.
-4. **Anything else,** including no priced calls at all, means the evidence reads nothing. Say that
-   out loud instead of pretending the data picked. Then hand the call to the founder with one
-   question: on your worst day, which of these would you still run? They already answered its
-   mirror at the top of this gate, so hold that answer up and ask them to confirm it rather than
-   asking twice. Their answer is the lane, their sentence is the reasoning in the plan, and you
-   write it with the same care as a lane the data picked.
-
+2. **The tiebreaker reads.** Take the lane it points at, whatever the sum said. Where that lane
+   is the one the founder named on their worst day, still recommend it, and say the conflict out
+   loud in the print beside their quoted sentence, so the overrule is offered rather than waited
+   for.
+3. **The tiebreaker does not read, and everything else is CONTENT** whatever the sum said,
+   including a sum that favors OUTREACH and including no priced calls at all. Say why in the
+   recommendation, plainly: the only channel that has run is three weeks of warm messages, so the
+   sum cannot produce a content signal and is thin evidence against a default. The sum is still
+   printed, because they can correct it.
 **STOP · one recommendation.** The gate is two messages and never more. First: the read in three
 lines, the blanks in a fourth, and the worst-day question, with the ADS budget question beside it
 in that same message whenever `.claude/squad-roots.md` carries no `ads gate` row, so the gate stays
 two messages. Then, off their answer: the grade table, one lane, the reasoning in three lines, and
 why each other graded lane loses for this founder specifically. Never a menu, never "it depends",
-never two lanes kept as a hedge. **If a correction to the read changes a count, re-grade and
-re-print before they decide.** They can overrule you, and if they do you write their lane with the
-same care and drop your argument entirely. The moment they say the word, write the `daily lane` row
-into
-`.claude/squad-roots.md`; a decision living only in a chat gets reopened Thursday.
+never two lanes kept as a hedge. **When OUTREACH takes the recommendation, the print carries three
+lines and no hedge:** the lane; the founder's own quoted line that put them there; and this, said
+once, then never again in the run: outreach is the hardest of the three and the easiest to start,
+the inbox they are entering is already full of AI-written customized mail, and content is where
+this skill starts. Then write their lane with the same care as any other. Never soften it into a
+menu, and never re-argue it after they choose. **If a correction to the read changes a count,
+re-grade and re-print before they decide.** They can overrule you, and if they do you write their
+lane with the same care and drop your argument entirely. The moment they say the word, write the
+`daily lane` row into `.claude/squad-roots.md`; a decision living only in a chat gets reopened
+Thursday.
 
 ## 3 · THE PLAN
 
@@ -236,7 +251,7 @@ come from the gate you just ran**, in the founder's own words, and a lane they c
 read is written with the same care as one the data picked. On a resumed run, where the `daily
 lane` row is written but the gate happened in a session that is gone, ask them for that one line
 in the same message as the dates, and never re-grade a lane they already chose. **Two: every week
-number in this file is the guarantee's week number, out of 24, counted off `term day 1`, and the
+number in this file is the term's week number, out of 24, counted off `term day 1`, and the
 last row ends on the day 100 date.** One file, one counting.
 
 **Self-check before the stop.** Every heading the template names is present, the header line
@@ -307,7 +322,7 @@ rather than kept: an old copy grades a founder against a market that moved.
 - Every message is scannable: a short header, then a table or short bullets. Grades, weeks and
   counts go in tables. The founder is deciding, not studying.
 - Evidence over opinion. A counted row beats a remembered one, and a priced call beats a reply.
-- Never a number nobody logged, and never a result predicted. The refund conditions are the only
+- Never a number nobody logged, and never a result predicted. The logged floors are the only
   thing promised here.
 - Never a menu. One lane, one plan, one print, and the founder's yes or their overrule.
 - Never send a message, publish a piece, load or start a sequence, book a slot or spend a budget

@@ -7,8 +7,7 @@ by name: phase 4 writes the week's approved supply into `## WEEK N`, phase 5 pri
 `## THE DAILY 100` and `## THE FLOOR UNDER IT`, phase 6 appends the week's row into `## WEEK N`.
 A drifted string is a section that is gone.
 
-It is a plan, never a promise, and nothing in it predicts a result. The refund conditions are the
-only thing this file promises.
+It is a plan, never a promise, and nothing in it predicts a result.
 
 ## The header line (first line of the file, one line)
 
@@ -24,7 +23,10 @@ gated, the lane slot carries the gate too: `LANE OUTREACH (ADS gated: no funded 
 The lane, and one line on why in the founder's own words from the gate. Where the evidence read
 nothing and the founder's worst-day answer picked, that line prints
 `(the founder's call, the evidence read nothing)` and gets written with the same care as a lane
-the data picked.
+the data picked. Where OUTREACH was recommended against the default, that line carries the
+founder's own quoted evidence for it plus one caution sentence: outreach is the hardest of the
+three and the easiest to start, the inbox they are entering is already full of AI-written
+customized mail, and content is where this skill starts.
 
 ## 2 · `## THE DAILY 100`
 
@@ -49,13 +51,11 @@ lives; the run file and the morning point here.**
 
 ## 3 · `## THE FLOOR UNDER IT`
 
-The guarantee's outreach condition is 1,000 reach-outs in 180 days, about 5.5 a day. **The
-counting rule is the guarantee's and not yours to write:** its requirement 4 counts a reach-out as
-a message that reaches a named human, and it is adjudicated mechanically off the submission log.
-So a sequence-sent message counts too, and the two halves get logged apart rather than summed,
-`sent 10 by hand · 90 by sequence`, because a single added-up figure hides the hand number and the
-hand number is the one this plan's own standard rests on. That standard is ten by hand a day and
-it is not yours to lower.
+The floor is ten reach-outs by hand a day, and a reach-out is a message that reaches a named
+human. **That standard is the plan's own and not yours to lower.** A sequence-sent message counts
+too, so the two halves get logged apart rather than summed, `sent 10 by hand · 90 by sequence`,
+because a single added-up figure hides the hand number and the hand number is the one the
+standard rests on. The daily four lines are the log, and the log is the only count there is.
 
 In OUTREACH the lane's hundred carries it. In CONTENT the hundred is minutes and a published
 piece is not a reach-out, so the ten still get sent by hand on top of the lane, off the named
@@ -68,10 +68,8 @@ them.
 The named calendar block at a fixed hour (outreach at 9am beats outreach sometime), proposed here
 and confirmed or changed by the founder at the phase 3 gate, five working
 days of the daily 100, the Sunday row, and **every hot seat held that week**, each with the
-`Stuck` line already written. The guarantee promises a count and never a frequency, at least 24
-across the term, and it counts attendance at 8 of every 10 held. So block what is actually on the
-calendar that week and hold the condition, rather than planning against a cadence this file
-invented.
+`Stuck` line already written. Hot seats run Monday and Thursday at 10am Pacific; block the ones
+actually on the calendar that week rather than a cadence this file invented.
 
 ## 5 · `## THE PHASE GATES`
 
@@ -82,7 +80,7 @@ by evidence and not by the calendar.
 
 ## 6 · `## THE WEEKS, OUT TO DAY 100`
 
-One row per week, carrying the dates and the guarantee's week number out of 24. Four of those rows
+One row per week, carrying the dates and the term's week number out of 24. Four of those rows
 carry the one thing that is different about that week, and only four, and they are the lane's own:
 in OUTREACH the first list, the first ten sent, the first follow-up wave and the halfway review;
 in CONTENT the first recording, the first published piece, the first full week of seven and the
@@ -111,7 +109,7 @@ they are the ones who restarted four times.
 
 ## The `## WEEK N` blocks (appended, one per week, never rewritten)
 
-N is the guarantee's week number, so the file carries one counting. Each block is dated and holds,
+N is the term's week number, so the file carries one counting. Each block is dated and holds,
 in this order: the week's approved supply (in OUTREACH the pointer to the block of
 `squad/cold-list.md` this week works, plus `pull by hand` where the pull was unwired; in CONTENT
 the topic, the recording hour, the week's pieces and the ten names; in ADS the pointer to the ads
