@@ -1,59 +1,61 @@
-# The 90 Day Plan: install in 60 seconds
+# The 4-Week Plan: install in 60 seconds
 
-The part of an Execution Squad that decides how the next 90 days spread. Your offer is
-confirmed, your sales script is written, your deck is built. This one asks how many hours a
-day you have, reads your lane off your own files, and writes `squad/90-day-plan.md`: one page,
-your lane, your weekly count sized to your hours, the hour you run it, and 13 weeks that all
-run the same cycle. Build on Monday and Tuesday. Sell from Wednesday to Saturday. Decide on
-Sunday. When your Google Drive is connected, the same plan lands in a Google Doc and you get
-the link.
+The part of an Execution Squad that decides how the next 4 weeks spread. Your offer is
+confirmed, your sales script is written, your deck is built. This one asks how many hours a day
+you have for the system, reads your lane off your own files, and writes your plan: one page,
+your lane, your block, and 4 weeks that all run the same cycle. Run what already wins. Measure
+the results. Improve what won. Three of these plans make your 90 days. When your Google Drive is
+connected, the same plan lands in a Google Doc and you get the link.
 
 ## What to bring
 
 Your own files, and the run opens them itself: `squad/business.md`, the deck in `squad/mep/`,
-your client folders under `squad/clients/`, `squad/pipeline.md`, and your posts in
-`squad/posts/`. Nothing else. If you want your sheet's live rows counted on the floor line,
-paste them in with your answer; nobody asks for them, and the plan says `files only` when you
-did not.
+your client folders under `squad/clients/`, and `squad/pipeline.md`. Nothing else.
 
 ## Run it
 
-Open Claude Code in your business folder and say: **"/90days"** (or **"Run
+Open Claude Code in your business folder and say: **"/4weeks"** (or **"Run
 /the-90-day-plan."**). Downloaded this folder on its own? Drop the whole thing into
 `.claude/skills/`, then quit and reopen Claude Code.
 
-It asks one question: hours a day for the squad, including the 30 minutes a day you spend
-reaching 10 people by hand. One number. Then it prints your lane with one line on why, and the whole plan under
-it. Say yes and name the hour of your block. Want the other lane? Say the word, and it rewrites
-the plan to that lane with the same care.
+It asks one question: hours a day for the system, beyond the hour you spend on people. One
+number. Then it prints your lane with one line on why, and the whole plan under it. Say yes and
+name the hour of your block. Want the other lane? Say the word, and it rewrites the plan to that
+lane with the same care.
 
-Stopped halfway, or closed the laptop? Say **"continue the 90 day plan"** in a new window. It
+Stopped halfway, or closed the laptop? Say **"continue the 4-week plan"** in a new window. It
 reads what is on disk and picks up at the first thing missing.
 
 ## What you get
 
-One page, `squad/90-day-plan.md`: the floor (10 by hand a day, and where the names come
-from), your lane's weekly count as a small table of arithmetic, the block hour, the 2 gates, and
-one table of 13 weeks with 3 working columns: Build (Mon, Tue), Sell (Wed to Sat), Decide (Sun).
-Build holds what you make that week. Sell holds the floor and your lane's count. Decide is
-blank until Sunday, when you type the one change `/bip sunday` gave you into that week's Decide
-cell in `squad/90-day-plan.md`, the file on disk; the Google Doc is a copy to read, not the copy
-that is read back. Every number in it
-is your hours, the arithmetic, or a count your files already hold. It never predicts a result.
+One page, `squad/90-day-plan.md`. The header: your lane, your hours, your block, the hour you
+spend on people (a habit, not a count), your send or publish day, plan 1 of 3, the renew date,
+the 2 gates, and the read lag rule in one line. Then 4 rows in 4 columns: Week, Run, Measure,
+Improve. Run is written now: the asset you make that week and the send or publish that puts it
+in front of strangers. Measure and Improve are blank until Sunday. Every number in it is your
+hours, the arithmetic, or a count your files already hold. It never predicts a result.
 
-With Google Drive connected (g2), you also get "90-day plan · your name" as a Google Doc, the
-tables intact, and its link is saved in your roots file.
+With Google Drive connected (g2), you also get "4-week plan · your name" as a Google Doc, the
+tables intact, and its link is saved in your roots file. The Doc is the plan as it stands on the
+day you say yes: your Sunday lines land in the plan on disk, and the renewal makes a fresh Doc.
 
-## Then
+## Every Sunday
 
-Nothing here until week 13. `/bip` writes the day, `/bip sunday` writes the week and hands you
-the one change for the Decide cell. At week 13 say **"/90days improve"**: it reads the 90 days
-that happened (your pipeline, your lane's own log, your 13 Decide cells), prints what to keep,
-what to kill and the one thing to change, asks your hours again, and appends the next 13 weeks
-under the first.
+Read your lane's 2 numbers (o3, c6 or a4), then say **"Put this in week N's Measure: ____ /
+Improve: ____"**. It writes the 2 cells and nothing else. The Improve line takes 2 forms and only
+2: one named change, or "holding until <number>, week N". Most weeks read holding. Then `/bip
+sunday` closes on that line.
+
+## Week 4
+
+Say **"/4weeks renew"**. It reads the 4 weeks that happened (your 4 Measure and Improve cells,
+your pipeline, your lane's own log), asks your hours again, and writes plan 2 whole under the
+first: a new header, the arithmetic again, 4 new rows, week 1's Run carrying your last Improve
+line as its brief. Your yes, and a new Google Doc with its plan number. A plan is renewed, never
+extended.
 
 ## Tools
 
 Google Drive, optional, for the Doc; without it the plan still lands on disk and the run says
-so in one line. No scrape, no calendar. It never sends anything, never posts, never starts a
-sequence, never spends a budget. Your hand does the contact.
+so in one line. No scrape, no calendar. It never sends anything, never posts, never starts an ad
+set, never spends a budget. Your hand does the contact.
