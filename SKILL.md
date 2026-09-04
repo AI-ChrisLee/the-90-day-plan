@@ -180,8 +180,9 @@ No connector: one line, "connect Google Drive (g2) and I put it in Docs next tim
 Never a second line about it, never a retry. Sharing stays as Google made it; the founder flips
 it if they want it seen.
 
-Then one line back: `/bip` writes the day; `/bip sunday` writes the week and hands you the one
-change, and you type it into that week's Decide cell in `squad/90-day-plan.md`; week 13 is
+Then one line back: `/bip` writes the day; `/bip sunday` writes the week and its closing lines
+carry the one change, and you type that line into that week's Decide cell in
+`squad/90-day-plan.md`; week 13 is
 `/90days improve`.
 
 ## 4 · THE READ (`improve`)
@@ -199,8 +200,9 @@ Week 13, or any Sunday after it. **Read first**, asking nothing, and only these:
 - the newest block's 13 rows: the Decide column, one change per week. Thirteen lines that say
   what the founder changed and when; a blank cell is a week nobody decided, and it is said as
   that.
-- `squad/posts/`: the dated files, counted once, for days posted of the 91. Never opened for
-  numbers. There is no Number line in a post and nothing in a post is summed.
+- `squad/posts/`: the dated `.md` files, one a day, counted once, for days posted of the 91. The
+  `.png` beside each is that night's drawing and is never counted. Never opened for numbers. There
+  is no Number line in a post and nothing in a post is summed.
 
 **Then one message, the only ask in this mode:**
 
@@ -260,7 +262,7 @@ print one line naming the old Doc as superseded. No connector, the same one line
 - Never invent a number, a name or a need. Every number printed is one the founder logged, a file
   holds, or the arithmetic produced from the hours they said.
 - Never sum a post. Money is read off `squad/pipeline.md`; the lane's numbers off its own log;
-  `squad/posts/` is counted for days posted and nothing else.
+  the dated `.md` files in `squad/posts/` are counted for days posted and nothing else.
 - Never paraphrase a quote. A buyer's line is verbatim, labeled and dated, as the client folder
   holds it.
 - Never a menu. One lane, one print, and the founder's word.
