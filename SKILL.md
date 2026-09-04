@@ -140,7 +140,7 @@ same care. A changed hour reprints THE BLOCK only. On the yes: stamp the header 
 and write `| daily lane | <lane> |` into `.claude/squad-roots.md`.
 
 Then one line back: `/bip` writes the day, `/bip sunday` writes the week, the track's read (o3,
-c8 or a4) fills the Sunday cell, and week 13 is `/90days improve`.
+c6 or a4) fills the Sunday cell, and week 13 is `/90days improve`.
 
 ## 4 · THE READ (`improve`)
 
@@ -152,16 +152,20 @@ Week 13, or any Sunday after it. **Read first**, asking nothing:
   of the 91, never summed. A week with no Sunday file prints `(no Sunday post)`.
 - the plan's thirteen rows: each week's Different cell, and the one change the Sunday cell holds.
 
-**Second:** `squad/pipeline.md` (replies by bucket, calls, prices said, money) and
-`squad/mep/*/plan.md` (which shell went to whom).
+**Second:** `squad/pipeline.md` (replies by bucket, calls, prices said, money),
+`squad/mep/*/plan.md` (which shell went to whom), and, where the file exists, every row under
+`## Sundays` in `squad/content-log.md`: what shipped each week, its views, the leads with their
+sources, the money with its source, and the one change. C6 writes those rows and this is where
+they get read; a founder running CONTENT pastes nothing.
 
 **Then one message, the only ask in this mode:**
 
 - the hours again: "Hours a day for the next 90, counting the 30 minutes for people?"
-- the lane's own channel number, if they have it, the one the track's read taught them to pull:
-  O3's batch read (OUTREACH), c3's Studio Reach tab (CONTENT), a4's Sunday card (ADS); text or a
-  screenshot. A founder who never opened the track has none: say the number is missing in one
-  line and run on the log and the pipeline alone. It never blocks.
+- the lane's own channel number, if they have it and the files do not: O3's batch read
+  (OUTREACH), a4's Sunday card (ADS); text or a screenshot. CONTENT's number is already on disk
+  in the Sunday rows above, so it is asked for only when `squad/content-log.md` holds none. A
+  founder who never opened the track has none either way: say the number is missing in one line
+  and run on the log and the pipeline alone. It never blocks.
 - only when the 90 made no money: the lane, read again off the files as in beat 2, printed with
   its one line why, and the founder says the word. Money in the 90 keeps the lane and changes
   only how it is run; the founder is not asked.

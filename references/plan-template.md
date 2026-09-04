@@ -76,10 +76,10 @@ Two lines, and no date on either, because a gate is passed by evidence and not b
   | Lane | Week 1 | Week 2 | Week 3 | Week 7 |
   |---|---|---|---|---|
   | OUTREACH | O1: the list | first full week sent | first follow-up wave | halfway read |
-  | CONTENT | the first recording | the first published piece | the first Studio read (c3) | halfway read |
+  | CONTENT | the first recording | the first published piece | the first Studio read (c2) | halfway read |
   | ADS | blank until the ads track names them | | | |
 
-- **Sunday**: blank when the plan is written. The track's read (o3, c8 or a4) writes the one
+- **Sunday**: blank when the plan is written. The track's read (o3, c6 or a4) writes the one
   change for next week into it each Sunday; until the founder reaches that lesson, they copy the
   fix line from `/bip sunday` in by hand. This skill never writes the cell.
 
