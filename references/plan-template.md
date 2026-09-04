@@ -1,125 +1,140 @@
-# The plan, section by section (the 90 Day Plan: THE PLAN)
+# The plan, one page (the 90 Day Plan: beat 2, and the block `improve` appends at beat 5)
 
-`squad/90-day-plan.md`. One page. This order. Nothing else.
+`squad/90-day-plan.md`. One page, seen not read. This order. Nothing else.
 
-Every heading here is written by exact string, every run, because the later phases resolve them
-by name: phase 4 writes the week's approved supply into `## WEEK N`, phase 5 prints today off
-`## THE DAILY 100` and `## THE FLOOR UNDER IT`, phase 6 appends the week's row into `## WEEK N`.
-A drifted string is a section that is gone.
+Three strings are read back by name, so they are written exactly: the header line (the resume
+check reads its `confirmed` stamp), the table's five columns (`improve` reads the rows), and the
+`## SECOND 90 · <date>` heading (`improve` appends under it and never edits above it). It is a
+plan, never a promise, and nothing in it predicts a result.
 
-It is a plan, never a promise, and nothing in it predicts a result.
+## The header line (the first line of the file, four fields)
 
-## The header line (first line of the file, one line)
+`LANE <lane> · hours a day <N> · week 1 <Monday's date> · confirmed <date>`
 
-`LANE <lane> · term day 1 <date> · day 100 <date> · read <full | files only, no sheet> · confirmed <date>`
+Week 1 starts the Monday after the day the plan is written (today, when today is a Monday).
+`confirmed <date>` is stamped at the yes and nowhere else; until then the slot reads
+`confirmed (not yet)`.
 
-`confirmed <date>` is stamped at the phase 3 gate and nowhere else. It is the only record that
-gate happened, and the resume check reads it. `read files only, no sheet` prints when the Warm
-tab was never pasted, so a plan built on a thin read says so on its own first line. Where ADS was
-gated, the lane slot carries the gate too: `LANE OUTREACH (ADS gated: no funded budget)`.
+## `THE FLOOR`
 
-## 1 · `## THE LANE`
+One line, stated once, never lowered, and it is the base's rule:
 
-The lane, and one line on why in the founder's own words from the gate. Where the evidence read
-nothing and the founder's worst-day answer picked, that line prints
-`(the founder's call, the evidence read nothing)` and gets written with the same care as a lane
-the data picked. Where OUTREACH was recommended against the default, that line carries the
-founder's own quoted evidence for it plus one caution sentence: outreach is the hardest of the
-three and the easiest to start, the inbox they are entering is already full of AI-written
-customized mail, and content is where this skill starts.
+`10 by hand a day · 30 minutes · 50 a week · never lowered.`
 
-## 2 · `## THE DAILY 100`
+Then where the names come from, one line, so a founder with no list is never sent to find 10
+strangers at 8 in the morning. In this order: your sheet's live rows (`N rows pasted <date>`
+when the founder pasted the Warm tab, `files only` when not), your client folders and who they
+know, whoever answered a post, O1's list once it exists. When the names run short, the base's
+shapes: a partnership, a meeting, an insight worth sending, a fund, a reply, a referral. Never
+"the shell attached": the shell goes to its one buyer in the sales hour.
 
-The lane's number in plain motions, split into what the squad runs and what the founder does by
-hand. Their motion is small on purpose, and it is the one that cannot be handed over.
+## `THE LANE` (the lane's weekly count, as arithmetic)
 
-**What the squad cannot run yet is printed here, in both lanes. This is the only place that rule
-lives; the run file and the morning point here.**
+One line, the arithmetic shown, so the founder can redo it when the hours change. The floor's 30
+minutes come off first. The weekly number is the daily one times the 5 block days (the floor's 50
+a week is the same 5). Ad spend is the one thing that runs all 7, so $100 a day is $700 a week,
+and the line says so.
 
-- **OUTREACH.** The ninety are not yours to send and not yours to start. Sending, the inboxes and
-  the compliance belong to the outreach track's own cold-email skill, which installs the day after
-  this plan is written. Until it does, the ninety are not running: the sequence copy is drafted and
-  handed over, nothing is loaded into any tool, and **the founder's ten by hand are the whole daily
-  hundred**, printed as such. Once that skill is running, its sent count is a number the morning
-  reads from the founder and never produces itself.
-- **CONTENT.** Mining, packaging, the script and the deck arrive with the content track's own
-  skills, the day after this plan is written. Until they do, the founder records, cuts and
-  publishes raw off the week's approved topic. There is no cut skill and no publish skill in the
-  member kit to hand either job to, so do not print one. What the squad runs today is the topic,
-  the ten, the morning and the count, and the day prints as what the founder can actually do: the
-  piece, and the ten hand-sent reach-outs the floor asks for.
+| Lane | The line, worked at 2 hours a day |
+|---|---|
+| OUTREACH | `2 h x 60 - 30 = 90 minutes a day · 30 by hand a day · 150 a week, off O1's list. The sequence's count is yours to report once O2 is live and warmed.` |
+| CONTENT | `2 h x 60 - 30 = 90 minutes a day · 450 minutes a week · 1 long-form recording a week, published as 1 piece.` |
+| ADS | `$100 a day flat · $700 a week (spend runs all 7 days), behind a1's gate · 90 minutes a day on the creative.` |
 
-## 3 · `## THE FLOOR UNDER IT`
+OUTREACH rounds down to a 5 and caps at 50 a day above the floor, and the line says the cap out
+loud when it bites: `50 by hand a day, the cap; the inbox is the limit, not the hours`. Under 1
+hour the line reads: `the floor is the plan this 90; the lane opens the week the hours reach 1`.
 
-The floor is ten reach-outs by hand a day, and a reach-out is a message that reaches a named
-human. **That standard is the plan's own and not yours to lower.** A sequence-sent message counts
-too, so the two halves get logged apart rather than summed, `sent 10 by hand · 90 by sequence`,
-because a single added-up figure hides the hand number and the hand number is the one the
-standard rests on. The daily four lines are the log, and the log is the only count there is.
+## `THE BLOCK`
 
-In OUTREACH the lane's hundred carries it. In CONTENT the hundred is minutes and a published
-piece is not a reach-out, so the ten still get sent by hand on top of the lane, off the named
-source phase 4 approves. In ADS the hundred is dollars and an impression is not a reach-out
-either, so the same ten ride on top, off the NOT NOW pile until the campaign's own leads replace
-them.
+One fixed hour, five days: `9:00 to 11:00, five days` for 2 hours a day, proposed at 9:00 and
+confirmed or changed at the yes. Outreach at 9 beats outreach sometime.
 
-## 4 · `## THE WEEKLY SHAPE`
+## `THE GATES` (the phase gates, no dates)
 
-The named calendar block at a fixed hour (outreach at 9am beats outreach sometime), proposed here
-and confirmed or changed by the founder at the phase 3 gate, five working
-days of the daily 100, the Sunday row, and **every hot seat held that week**, each with the
-`Stuck` line already written. Hot seats run Monday and Thursday at 10am Pacific; block the ones
-actually on the calendar that week rather than a cadence this file invented.
+Two lines, and no date on either, because a gate is passed by evidence and not by the calendar:
 
-## 5 · `## THE PHASE GATES`
+`Money received ends phase one.`
+`Three clients from one channel ends phase two.`
 
-Money received, any amount, ends phase one. Three clients from one channel ends phase two. Phase
-three is the point of the design: the system carries the volume and the business runs on
-approvals instead of hours. Write them as gates with no dates on them, because a gate is passed
-by evidence and not by the calendar.
+## The miss clause (one line above the table)
 
-## 6 · `## THE WEEKS, OUT TO DAY 100`
+`One zero day is a row, not a quit. Never two in a row.`
 
-One row per week, carrying the dates and the term's week number out of 24. Four of those rows
-carry the one thing that is different about that week, and only four, and they are the lane's own:
-in OUTREACH the first list, the first ten sent, the first follow-up wave and the halfway review;
-in CONTENT the first recording, the first published piece, the first full week of seven and the
-halfway review; in ADS the four the ads track names, and they stay blank until it names them
-rather than being invented here. The rest stay blank, because the Sunday blocks fill them with
-what happened and a week invented tonight is a promise this file does not make.
+## The table (thirteen rows, five columns)
 
-The last row ends on the day 100 date. **Compute the week it lands in off `term day 1`, never off
-an assumption:** a founder starting the hundred in week five ends near week 19 with about five
-weeks of term after it, and a founder who took ten weeks to get here ends at or past week 24.
-**Where the day 100 date falls at or past week 24, stop the `of 24` numbering at the term's last
-week and carry the rows after it as `week N, past the term's 24`.** Never print a numerator above
-its own denominator.
+`| Week | Dates | Lane | Different | Sunday |`
 
-One line under the last row, printed as written:
+- **Week**: 1 to 13.
+- **Dates**: Monday to Sunday, `Sep 7 to 13`, counted from the header's week 1 date.
+- **Lane**: the weekly count off THE LANE, the same every week. OUTREACH week 1 reads
+  `the floor until O1's list exists`. Week 13 reads `improve`.
+- **Different**: only the lane's four milestone rows carry a line, and week 13 carries
+  `/90days improve`. Everything else stays blank; a week invented tonight is a promise this file
+  does not make.
 
-> **The morning and the Sunday keep running past day 100. The first Sunday on or after <day 100
-> date> is a fresh run of phases 1 to 3, off a hundred days of evidence these files do not have
-> tonight.**
+  | Lane | Week 1 | Week 2 | Week 3 | Week 7 |
+  |---|---|---|---|---|
+  | OUTREACH | O1: the list | first full week sent | first follow-up wave | halfway read |
+  | CONTENT | the first recording | the first published piece | the first Studio read (c3) | halfway read |
+  | ADS | blank until the ads track names them | | | |
 
-## 7 · `## THE SWITCHING RULE`
+- **Sunday**: blank when the plan is written. The track's read (o3, c8 or a4) writes the one
+  change for next week into it each Sunday; until the founder reaches that lesson, they copy the
+  fix line from `/bip sunday` in by hand. This skill never writes the cell.
 
-The lane may be switched after the hundred days, not on day twelve because it feels slow. Day
-twelve always feels slow, and the founders who never get a client are usually not the lazy ones;
-they are the ones who restarted four times.
+## Never in the file
 
-## The `## WEEK N` blocks (appended, one per week, never rewritten)
+A sequence count (O2 owns the sequence), a cut into pieces, a hot seat time, a scorecard or a
+pace line, a shrink rule, a day-100 date, a morning, a supply list, a projected result.
 
-N is the term's week number, so the file carries one counting. Each block is dated and holds,
-in this order: the week's approved supply (in OUTREACH the pointer to the block of
-`squad/cold-list.md` this week works, plus `pull by hand` where the pull was unwired; in CONTENT
-the topic, the recording hour, the week's pieces and the ten names; in ADS the pointer to the ads
-track's creative queue plus the ten names), then the Sunday row as it was posted, then the one
-thing deleted and the one change for next week.
+## The block `improve` appends (beat 5, one per run)
 
-Never quietly edit an earlier week to match what happened. A week that went differently is written
-in the week it happened.
+Under `## SECOND 90 · <today's date>` (THIRD, FOURTH on later runs), in this order, and not one
+line above the heading is touched:
+
+1. the header line again, with the new hours and the lane, `confirmed (not yet)` until the yes
+2. `KEEP`, `KILL`, `CHANGE`, one line each, off beat 5
+3. `THE LANE`, recomputed off the new hours
+4. `THE BLOCK`
+5. the miss clause and the thirteen-row table, dated on from the week after the last row above.
+   Different carries the CHANGE line in week 1, `halfway read` in week 7 and `/90days improve` in
+   week 13, and nothing else.
+
+## An example (an example, no member identity: OUTREACH, 2 hours a day, written Sep 3)
+
+```
+LANE OUTREACH · hours a day 2 · week 1 Sep 7 · confirmed Sep 3
+
+THE FLOOR   10 by hand a day · 30 minutes · 50 a week · never lowered.
+            Names: your sheet's live rows (files only), your client folders and who they know,
+            whoever answered a post, O1's list once it exists; the base's shapes when the
+            names run short.
+THE LANE    2 h x 60 - 30 = 90 minutes a day · 30 by hand a day · 150 a week, off O1's list.
+            The sequence's count is yours to report once O2 is live and warmed.
+THE BLOCK   9:00 to 11:00, five days.
+THE GATES   Money received ends phase one. Three clients from one channel ends phase two.
+
+One zero day is a row, not a quit. Never two in a row.
+
+| Week | Dates           | Lane                             | Different            | Sunday |
+|------|-----------------|----------------------------------|----------------------|--------|
+| 1    | Sep 7 to 13     | the floor until O1's list exists | O1: the list         |        |
+| 2    | Sep 14 to 20    | 150 by hand                      | first full week sent |        |
+| 3    | Sep 21 to 27    | 150 by hand                      | first follow-up wave |        |
+| 4    | Sep 28 to Oct 4 | 150 by hand                      |                      |        |
+| 5    | Oct 5 to 11     | 150 by hand                      |                      |        |
+| 6    | Oct 12 to 18    | 150 by hand                      |                      |        |
+| 7    | Oct 19 to 25    | 150 by hand                      | halfway read         |        |
+| 8    | Oct 26 to Nov 1 | 150 by hand                      |                      |        |
+| 9    | Nov 2 to 8      | 150 by hand                      |                      |        |
+| 10   | Nov 9 to 15     | 150 by hand                      |                      |        |
+| 11   | Nov 16 to 22    | 150 by hand                      |                      |        |
+| 12   | Nov 23 to 29    | 150 by hand                      |                      |        |
+| 13   | Nov 30 to Dec 6 | improve                          | /90days improve      |        |
+```
 
 ## Formatting
 
-Plain markdown. The weeks go in a table, everything else in short lines. No em dashes. No
+Plain markdown. The weeks go in the table, everything else in short lines. No em dashes. No
 prediction, no projected revenue, no promised result anywhere in the file.

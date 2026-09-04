@@ -1,329 +1,209 @@
 ---
 name: the-90-day-plan
-description: Use this when the warm list is spent and the founder asks what comes next. They say "pick my lane", "which lane should I run", "Read my offer document, my warm list and my pipeline. Recommend one lane, and tell me why the other one loses for me" (or the same line with "offer card", the old name for that page), "build my 90 day plan", "build what my lane runs on", "what do I do today", "run my morning", "run my Sunday", or "continue the 90 day plan" (picking a stopped run back up). It reads their own warm rows, call grades and offer document, grades the lanes against that evidence, recommends one with the reasoning, and writes squad/90-day-plan.md, the one page the next hundred days run off. After that page exists it is what the morning prints and what the Sunday row is written into. It never sends anything, and the lane is always the founder's call.
+description: Use this when the offer, the sales script and the shell are ready and the founder asks how to spread. They say "/90days", "build my 90 day plan", "which lane should I run", "pick my lane", "Run /the-90-day-plan", or "continue the 90 day plan" (picking a stopped run back up); at week 13 they say "/90days improve" or "improve my plan". It asks one question, hours a day, reads the lane off their own files, and writes squad/90-day-plan.md, one page: the floor, the lane's weekly count sized to the hours, the block hour, the two gates and thirteen weeks. Improve reads the 90 days that happened and appends the next thirteen. It never sends anything, and the lane is always the founder's word.
 ---
 
 # The 90 Day Plan
 
-The warm list is spent and the founder is asking what now. That question does not die by
-thinking, and it does not die by a menu. Your work, in one line: **read the founder's own
-evidence, pick ONE lane off it, and write `squad/90-day-plan.md`, the one page the next hundred
-days run off.** Everything after it, the morning print and the Sunday row, is that page being
-run. They leave with a lane, a plan, and something to do at nine tomorrow.
-
-Two lines you never cross. **You never send:** no email, no DM, no post, no scheduled send, no
-automation. You prepare the day; their hand presses send. **You never overrule the founder:** you
-recommend once, with the reasoning and why each other lane loses for them, and then they decide,
-including against you. What they do not get to do is stay undecided.
-
-**Source order, and it settles every argument in this run.** The founder's own counted rows and
-priced calls are PRIMARY: `squad/pipeline.md`, `squad/calls/`, `squad/warm-notes.md`, and the
-Outreach Sheet's Warm tab, which is the only record of what actually went out. `squad/business.md`,
-the offer document, sets what the plan is allowed to promise and charge, and nothing here changes a
-price. A draft file says what was written, never what was sent or on what channel, so nothing is
-ever counted off one. Where a reply and a priced call disagree the priced call wins, because a
-reply is politeness and a price is a decision.
+The offer is confirmed, the script is written, the shell is built. What is left is how to spread,
+and that question dies by arithmetic, not by a menu. Your work, in one line: **ask hours a day
+once, read the lane off the founder's own files, and write `squad/90-day-plan.md`, one page of
+weekly counts sized to those hours.** The founder's part is one number, one yes, and the hour of
+the block.
 
 This skill runs in ANY founder's repo. Read `.claude/squad-roots.md` first, the instance file
-every member-run skill shares (founder name, brand words, niche, paths, timezone). Its values win
-over the `squad/` paths below, which are worked examples, and a row reading "(none yet)" is an
-unanswered field rather than an override. Legacy repos carry `.claude/spine-roots.md`: read that
-as the fallback, and write the file here when neither exists. Four rows are yours, and you are the
-only skill that reads them: `daily lane` (OUTREACH, CONTENT or ADS), written at the phase 2 gate,
-which is what stops a lane decided on Tuesday from reopening on Thursday; `term day 1` and
-`day 100`, both written at the phase 3 gate so a session resuming in week six reads them instead
-of recounting; and `ads gate`, below. **Never write into the `lane` row.** That row is the Winning
-Scrape's, it holds a content-research file path, and the Proven Package and the Presentation both
-read it.
-
-## The Rule of 100
-
-One hundred primary actions a day, one channel, a hundred days. It is Alex Hormozi's, from
-$100M Leads. **The skill, the file and the repo say 90 and the plan runs to day 100:** the Rule of
-100 sets the length and 90 is the name. Say that once if the founder asks, and never rename
-`squad/90-day-plan.md` to match.
-
-**The three are not equal, and the order below is the default this skill grades from.** CONTENT is
-the main lane: it reaches buyers who do not know the founder yet and it compounds. ADS is a main
-lane the day its budget gate is open. OUTREACH cannot be the main lane. It is the last-resort lane
-for a founder with nothing else, easy enough to start that everyone starts it, and hardest now that
-AI writes customized cold email at volume. A founder whose own files carry a cold signal still
-lands in OUTREACH, and section 2 is where that happens.
-
-| Lane | The daily 100 | Your squad runs | The founder does |
-|---|---|---|---|
-| CONTENT | 100 minutes a day making, one piece published daily | Mining winners, packaging, the script, the deck, the count | Records once a week, cuts and posts by hand, sends the floor's ten |
-| ADS (only when its budget question came back yes) | $100 a day approved and held flat | Mining the winning ads, the creative, the campaign build, the three-number report | Approves the budget and the creative, sends the floor's ten |
-| OUTREACH | 100 reach-outs a day: about 90 cold emails from one sequence, about 10 human touches | The list, the research, the message copy, the sequence, sorting the replies | Approves the list, starts the ninety in their own cold-email tool, sends the ten by hand |
-
-**Half of that squad is not installed on the day this plan is written**, in either lane, and the
-plan prints what is actually runnable instead of a hundred the lane cannot send.
-`references/plan-template.md`, section THE DAILY 100, is the only place that rule lives; the plan
-carries it and the first morning says it out loud.
-
-**ADS is gated on its budget, not on history:** $3,000 a month, the Rule of 100 at $100 a day.
-Check `.claude/squad-roots.md` for an `ads gate` row first (a1's run writes it: open or shut, the
-funding source, the date). A row that says open counts as the yes. No row: ask once, can you put
-$3,000 a month into ads for the next three months without touching rent, and where does that money
-come from, then write the answer into that row yourself, dated. A yes with a named source puts ADS
-into the grading. Anything else prints as GATED, with the question as the reason, and the ads track
-holds the argument (a1).
+every member-run skill shares; its values win over the `squad/` paths below, which are worked
+examples, and a row reading "(none yet)" is an unanswered field rather than an override. Legacy
+repos carry `.claude/spine-roots.md`: read that as the fallback. Two rows are this skill's own:
+`hours a day`, written at beat 1, and `daily lane` (OUTREACH, CONTENT or ADS), written at the yes.
+`ads gate` is a1's row and is only read here. **Never write into the `lane` row.** That row is the
+Winning Scrape's and holds a content-research path.
 
 ## The run map (where you run, where you STOP)
 
-| Phase | Mode |
+| Beat | Mode |
 |---|---|
-| 1 THE READ | AUTO from their files (one HUMAN INPUT: the Warm tab paste, and the read runs without it) |
-| 2 THE LANE | AUTO grading (one HUMAN INPUT: the ADS budget question, only when `.claude/squad-roots.md` carries no `ads gate` row), then **STOP · GATE: the read corrected, and the lane chosen by the founder** |
-| 3 THE PLAN | HUMAN INPUT: `term day 1` when the roots row is missing, then AUTO, written whole, then **STOP · GATE: the founder's yes and the calendar hour** |
-| 4 THE SUPPLY | AUTO, then **STOP · GATE: the founder approves the names they will actually message** |
-| 5 THE MORNING | HUMAN INPUT: yesterday's numbers, then AUTO. Daily, under three minutes |
-| 6 THE SUNDAY | HUMAN INPUT: the week's posted blocks, then AUTO. Weekly, and it restocks phase 4 to its **STOP · GATE: next week's supply approved before Sunday ends** |
+| 1 THE HOURS | HUMAN INPUT: one number, and nothing prints before it |
+| 2 THE LANE AND THE PLAN | AUTO: the files read, the arithmetic, the plan written and printed whole under the lane line |
+| 3 THE YES | **STOP · GATE: the founder's yes and the block hour; a different lane word reprints** |
+| 4 THE READ (`improve`) | AUTO off the log and the plan, then HUMAN INPUT: the hours again, the lane's channel number if they have one, the lane word only when the 90 made no money |
+| 5 THE SECOND 90 | AUTO: keep, kill, change, the next thirteen rows appended and printed |
+| 6 THE YES | **STOP · GATE: the founder's yes and the block hour** |
 
-The phase numbers ARE the section numbers below. Three stops in the once-through run: the lane, the
-plan, the supply. Phase 5 has no gate. Phase 6 re-runs the supply gate every week and adds no new
-decision. Never pause an automated phase to ask a small question (batch it into the next gate);
-never run through a gate because the answer seems obvious. Phases 1 to 4 run once at the top of
-the hundred days; 5 and 6 are where the founder lives after.
+The beat numbers are the section numbers below. Beats 1 to 3 are `build`, the default, and they
+run once. Beats 4 to 6 are `improve`, at week 13 or any Sunday after it. One question, one print,
+one gate, in each mode. Never pause an automated beat to ask a small question; never run through a
+gate because the answer seems obvious. Between the yes and week 13 this skill does nothing: `/bip`
+writes the day, `/bip sunday` writes the week, and the track's read fills the Sunday cell.
 
-**Resuming.** The rule keys on the OUTPUTS, not on what a session remembers doing: check them in
-this order and continue at the first one missing or incomplete.
+**Resuming.** The rule keys on the OUTPUTS, never on what a session remembers: check them in this
+order and continue at the first one missing or incomplete.
 
 | Missing or incomplete | Resume at |
 |---|---|
-| `.claude/squad-roots.md` has no `daily lane` row | phase 1 |
-| the `daily lane` row is written and `squad/90-day-plan.md` does not exist | phase 3 (never re-grade a lane the founder already chose) |
-| the plan exists but its header line carries no `confirmed <date>` stamp | phase 3, THE GATE ONLY: never rewrite the plan they already have |
-| the plan is confirmed and this week's `## WEEK N` block carries no approved supply | phase 4, this week only |
-| this week's supply is approved and the founder is asking for the day | phase 5 |
-| it is Sunday and this week's `## WEEK N` block carries no row | phase 6 |
+| `.claude/squad-roots.md` has no `hours a day` row | beat 1 |
+| the row is there and `squad/90-day-plan.md` does not exist | beat 2 |
+| the plan exists and its header line carries no `confirmed <date>` stamp | beat 3, the gate only, never a rewrite |
+| the plan is confirmed and it is not yet week 13 | nothing here: point at `/bip` for the day and the track's read for Sunday |
+| `improve` was asked and the newest `## SECOND 90` block (or THIRD, and so on) has no `confirmed` stamp | beat 6, the gate only |
+| `improve` was asked and every block is confirmed | beat 4, a new block |
 
-The last two rows are the exception to the artifact rule, on purpose: there is no log file on
-their laptop, so a day is entered by the day and by their ask, never by a file that says the
-morning has not run yet. A confirmed plan means phases 1 to 3 are done: never re-run them, and
-never reopen the lane before the day 100 date the plan carries. Never re-ask a number the files
-already hold, and never re-narrate a call whose words are already on disk.
+## The outputs (two files, every run)
 
-## The outputs (three files, every run)
+1. `squad/90-day-plan.md`: THE file, one page, written to the exact shape in
+   `references/plan-template.md`. `improve` appends a block under it and never edits a line above.
+2. The `hours a day` and `daily lane` rows in `.claude/squad-roots.md`.
 
-1. `squad/90-day-plan.md`: THE file, and the one thing this skill exists to produce. The plan,
-   written to the exact headings in `references/plan-template.md`, plus one dated `## WEEK N`
-   block per week holding that week's approved supply and that week's Sunday row. Phases 4, 5 and
-   6 all read it by heading, so a drifted string is a section that is gone.
-2. `squad/cold-list.md`, in the OUTREACH lane only: the named source, the labeled rows, the
-   drafted messages.
-3. The `daily lane`, `term day 1`, `day 100` and `ads gate` rows in `.claude/squad-roots.md`.
+Nothing else gets written.
 
-The daily four lines and the weekly row are printed for the founder to post; the classroom thread
-is their record, not a file here. Nothing else gets written. If it is worth keeping, it belongs in
-one of these three, and nothing leaves the laptop.
+## 1 · THE HOURS
 
-## 1 · THE READ
+**First, a self-check.** One file inside THIS skill's folder, next to `SKILL.md`, must open:
+`references/plan-template.md`. If it is missing, stop and tell the founder to finish the install:
+copy the whole skill folder, `references/` included.
 
-**First, a self-check, before you open anything of theirs.** Three files inside THIS skill's
-folder, next to `SKILL.md`, must open: `references/plan-template.md`, `references/the-supply.md`,
-`references/the-week.md`. If any is missing, stop and tell the founder to finish the install: copy
-the whole skill folder, `references/` included. A broken install caught after the read costs them
-the read.
+**Then the one question, when `squad/90-day-plan.md` does not exist and the roots file holds no
+`hours a day` row.** Nothing prints before it, not the lane, not a file read, not a table:
 
-**Then open their files before you ask them anything.** The last few weeks left a paper trail, and
-it beats any opinion either of you has.
+> Hours a day for the squad, counting the 30 minutes you already block for people?
 
-| Source | What you pull out of it |
+One number. Write it into `.claude/squad-roots.md` as `| hours a day | N |`. The week said back
+("so about N hours a week, weekends included?") is the first line of the next message, never a
+second question; a wrong number gets corrected at the gate. A row already there is never re-asked.
+The question counts all 7 days, which is why the said-back multiplies by 7; the plan spends those
+hours on the 5 block days, and beat 2's arithmetic says so.
+
+## 2 · THE LANE AND THE PLAN
+
+**Read, in this order, asking nothing about any of it.**
+
+| File | What it answers |
 |---|---|
-| `squad/business.md` | The offer document: who it is for, the promise, the price, the plan |
-| `squad/warm-notes.md` | What buyers said in their own words, verbatim, plus `squad/warm-list.md` if it exists |
-| `squad/pipeline.md` and `squad/calls/` | Each reply's source (warm or cold, and where), every call where a price was said, its five gate grades, where it stands |
-| The Outreach Sheet (Warm tab) | How many went out, on what channel, who replied, which became a real conversation |
+| `.claude/squad-roots.md` | `hours a day`; `ads gate` (a1's row: open or shut) |
+| `squad/business.md` | who buys: a buyer you can list by name, or one you cannot. Missing: stop on one line, G5 forges it |
+| `squad/mep/*/plan.md` | the shell, built for whom |
+| `squad/clients/*/notes.md` | who asked for a named thing; THE NEXT STEP with a date |
+| `squad/pipeline.md` | who almost paid; money received |
+| `squad/posts/` | what the log already shows |
+| a paste of the Warm tab's live rows, only when the founder dropped one in | the floor's first names, counted. Never asked for; there is no connector |
 
-The sheet is their Google Drive and not a file here, so ask them once, in one message, to paste
-the Warm tab whole, all seven columns from `Who they are` through `Next touch`, for every row. The
-paste is positional across them, so a row pasted without column 1 cannot be tied to a person and
-gets asked for again. Column order: Who they are, How you know them, First message sent, Reply,
-What they said on the call, Status, Next touch. **No paste, and the read still runs**, off
-`squad/pipeline.md` and `squad/warm-notes.md` alone: say what that costs (the channel counts come
-off the pipeline's source field only), and the plan's header line prints
-`read files only, no sheet`.
+**The lane is read, never asked.** ADS reads first when both its halves are there; otherwise the
+first two rows decide.
 
-Then label what the data says, and label only. No lane talk yet.
+| The files say | The lane | Chris's level rule |
+|---|---|---|
+| the buyer in `business.md` can be listed by name (an owner, a realtor, a clinic, a job title in a city), and there is something to show: the shell in `squad/mep/`, or a client folder with a dated next step | OUTREACH | proof in hand, outreach |
+| the buyer cannot be listed by name (a consumer, a creator, a broad audience), or there is nothing to show yet | CONTENT | nothing yet, content |
+| money received in `pipeline.md` on the offer as it stands, and the `ads gate` row reads open | ADS | money and a need for speed, ads |
 
-1. **Where the replies came from.** Channel by channel, counted and not remembered, off the
-   paste's `First message sent` column and the source field in `squad/pipeline.md`.
-2. **Who almost paid.** Every priced call by name, how that person arrived, what the debrief
-   graded, and where it stands: closed, next step dated, stalled or dead. The dated ones are live, and
-   they get counted as live rather than quietly filed under stalled.
-3. **What they said.** Two or three verbatim lines carrying the reason, the nos included, since a
-   no is sharper. "I did not know you existed" is a reach problem; "I just do not know you well
-   enough yet" is a trust problem.
-4. **What is missing.** Rows nobody filled, calls with no debrief, a week with no daily post.
+No hours threshold decides the lane: content at 1 hour a day is a lane sized in minutes. A founder
+who dreads the lane the files picked says the other word at the gate, and their word is written
+with the same care.
 
-No stop here. The read is printed at the lane gate, where it can still be corrected before it
-becomes a decision, because a plan built on a wrong read costs a quarter.
+**The count is one line of arithmetic.** The floor is the first 30 minutes of every budget and
+never shrinks; what is left is the lane's.
 
-## 2 · THE LANE
+```
+minutes a day for the lane = hours a day x 60 - 30
+OUTREACH   by hand a day = minutes / 3, rounded down to a 5; capped at 50 above the floor, the cap said out loud
+CONTENT    the minutes, and 1 long-form recording a week, published as 1 piece
+ADS        $100 a day flat, behind a1's gate; the minutes go on the creative
+a week = a day x 5 block days; ad spend is the one that runs all 7
+```
 
-OUTREACH and CONTENT always grade. ADS joins only when its budget question came back yes with a
-named source; otherwise it prints as GATED with the gate said out loud. Three signals, each 0, 1
-or 2 against the read you just did. The sum ranks the lanes in the print, and the order below is
-what recommends; the tiebreaker outranks the sum wherever it reads at all. When ADS is in the
-grading it wins only on money plus proof: the budget AND a message that already made money for the
-first ad to remix. One without the other and ADS cannot take the recommendation; it stays in the
-print with the missing half named.
+The split, so the arithmetic reconciles: the hours question counts all 7 days, the by-hand count
+and the minutes run on the 5 block days (a day x 5, and the floor's 50 a week is the same 5), and
+ad spend is the one thing that runs every day, so $100 a day is $700 a week. THE BLOCK's five days
+and the ADS line carry it in the file; never print a weekly number the block's days do not produce.
 
-| Signal | 2 | 1 | 0 |
-|---|---|---|---|
-| WHERE THE BUYER ALREADY IS | This lane reaches them where they already are, every day | Reachable here with work | You would be shouting into an empty room |
-| WHAT YOU CAN SUSTAIN AT YOUR WORST | Doable on the day the kid is sick and you slept five hours | Doable on a normal day | You already know you would skip it |
-| WHAT THE OFFER NEEDS | The offer sells the way this lane sells | Workable | The offer needs the thing this lane cannot give it |
+Under 1 hour, the floor is the plan and the print says the lane opens the week the hours reach 1.
+No sequence count is printed before O2 is live and warmed; its sent number is the founder's to
+report, never the plan's to promise.
 
-Grade signal 2 off the founder's own answer, never off a guess. It is the first half of the gate:
-ask them, on your worst day, which of these would feel like punishment? Cross the lane they name
-down to 0, and their sentence goes in the plan. For signal 3: a priced service sold to a named
-business needs the right people to know it exists, and that is outreach; an offer that needs trust
-before the price lands, or one whose buyer the founder still cannot name, needs content, slower to
-first money and better at compounding.
+**Then write `squad/90-day-plan.md` whole**, to `references/plan-template.md`, in its order, and
+print ONE message:
 
-**The tiebreaker is made of money, so it outranks the sum.** Every priced call arrived warm, since
-the warm week is the only channel that has run, so do not ask how they arrived. Ask why the price
-landed, and read the refusals as hard as the yeses. Most week-four founders have no accepted price
-at all, and a no is the sharper line anyway.
+- line 1: the week said back
+- the lane, one line; why, one line off the files; "say a different word for a different lane"
+- the whole plan, as written
 
-| What the call notes say | The lane it points at |
+Every number in it is the founder's hours, the arithmetic, or a count a file holds. Never a
+projected result.
+
+## 3 · THE YES
+
+**STOP.** Ask for two things and nothing more: the yes, and the hour of the block (the plan
+proposes 9:00 for the hours a day, 5 days; the founder confirms or names another). A different
+lane word reprints the lane line, the count line and the table for that lane, written with the
+same care. A changed hour reprints THE BLOCK only. On the yes: stamp the header line
+`confirmed <today's date>`, the only record this gate happened and what the resume check reads,
+and write `| daily lane | <lane> |` into `.claude/squad-roots.md`.
+
+Then one line back: `/bip` writes the day, `/bip sunday` writes the week, the track's read (o3,
+c8 or a4) fills the Sunday cell, and week 13 is `/90days improve`.
+
+## 4 · THE READ (`improve`)
+
+Week 13, or any Sunday after it. **Read first**, asking nothing:
+
+- `squad/posts/`: the Sunday files, the ones whose last line begins `Week`. Their counts are the
+  weekly totals: sent by hand, replies, calls, money. Sum only those files. A `Day` file is never
+  added on top (that counts the week twice); the `Day` files are counted once, for days posted
+  of the 91, never summed. A week with no Sunday file prints `(no Sunday post)`.
+- the plan's thirteen rows: each week's Different cell, and the one change the Sunday cell holds.
+
+**Second:** `squad/pipeline.md` (replies by bucket, calls, prices said, money) and
+`squad/mep/*/plan.md` (which shell went to whom).
+
+**Then one message, the only ask in this mode:**
+
+- the hours again: "Hours a day for the next 90, counting the 30 minutes for people?"
+- the lane's own channel number, if they have it, the one the track's read taught them to pull:
+  O3's batch read (OUTREACH), c3's Studio Reach tab (CONTENT), a4's Sunday card (ADS); text or a
+  screenshot. A founder who never opened the track has none: say the number is missing in one
+  line and run on the log and the pipeline alone. It never blocks.
+- only when the 90 made no money: the lane, read again off the files as in beat 2, printed with
+  its one line why, and the founder says the word. Money in the 90 keeps the lane and changes
+  only how it is run; the founder is not asked.
+
+## 5 · THE SECOND 90
+
+Off the read and the answers, and no other source:
+
+| Line | What goes in it |
 |---|---|
-| The price landed because the person already knew them, and trust did the work | CONTENT, which is what buys that trust at scale |
-| The price landed on the problem alone, so a stranger can be told the same sentence | OUTREACH |
-| The no named reach: "I had never heard of you", "I did not know you existed" | OUTREACH |
-| The no named trust: "I like this, I just do not know your work well enough yet" | CONTENT |
-| The no named neither, so it is timing or budget: "not until the fall", "no volume yet" | It does not read. Go to the order below |
+| KEEP | what produced a reply, a call or money, by week, off the Sunday totals and the pipeline |
+| KILL | what produced nothing 3 weeks running. The ten-percent check, said once: the list is long enough when under 10 percent of it comes back in the next 90; a kill list of 1 item is a plan that was not read |
+| CHANGE | the one biggest drop-off in the founder's own funnel, and the one thing that changes there |
 
-**Where the priced calls disagree with each other, which is the normal shape at week four, the nos
-win over the yeses.** A yes tells you what already worked on somebody who was already close; a no
-names what is missing, and what is missing is what the next hundred days have to go buy. If the
-nos themselves point both ways, or there is one of each and nothing to separate them, the
-tiebreaker does not read at all: say so out loud and fall to the order below. Never count them and
-never take the most recent one.
-
-**First, the worst-day answer. Where the founder named CONTENT as the lane that would feel like
-punishment, CONTENT is off the table for every step below, and their sentence is the reasoning in
-the plan.**
-
-**Then, the order, and nothing below reopens it.**
-
-1. **ADS reads first, when it is in the grading.** Both halves present, the funded budget and a
-   message that already made money, and ADS takes the recommendation with both named. Either half
-   missing and ADS cannot win: name the missing half and continue below.
-2. **The tiebreaker reads.** Take the lane it points at, whatever the sum said. Where that lane
-   is the one the founder named on their worst day, still recommend it, and say the conflict out
-   loud in the print beside their quoted sentence, so the overrule is offered rather than waited
-   for.
-3. **The tiebreaker does not read, and everything else is CONTENT** whatever the sum said,
-   including a sum that favors OUTREACH and including no priced calls at all. Say why in the
-   recommendation, plainly: the only channel that has run is three weeks of warm messages, so the
-   sum cannot produce a content signal and is thin evidence against a default. The sum is still
-   printed, because they can correct it.
-**STOP · one recommendation.** The gate is two messages and never more. First: the read in three
-lines, the blanks in a fourth, and the worst-day question, with the ADS budget question beside it
-in that same message whenever `.claude/squad-roots.md` carries no `ads gate` row, so the gate stays
-two messages. Then, off their answer: the grade table, one lane, the reasoning in three lines, and
-why each other graded lane loses for this founder specifically. Never a menu, never "it depends",
-never two lanes kept as a hedge. **When OUTREACH takes the recommendation, the print carries three
-lines and no hedge:** the lane; the founder's own quoted line that put them there; and this, said
-once, then never again in the run: outreach is the hardest of the three and the easiest to start,
-the inbox they are entering is already full of AI-written customized mail, and content is where
-this skill starts. Then write their lane with the same care as any other. Never soften it into a
-menu, and never re-argue it after they choose. **If a correction to the read changes a count,
-re-grade and re-print before they decide.** They can overrule you, and if they do you write their
-lane with the same care and drop your argument entirely. The moment they say the word, write the
-`daily lane` row into `.claude/squad-roots.md`; a decision living only in a chat gets reopened
-Thursday.
-
-## 3 · THE PLAN
-
-**Two dates before you print a week number.** `term day 1` is the date their 180 days started; if
-`.claude/squad-roots.md` does not already hold it, ask for it here, before anything else in this
-phase, because every Day and Week number in the file counts from it. Day 1 of the hundred is the
-first morning after this plan is written, so the day 100 date is that morning plus 99 days. Say
-both dates back in one line.
-
-Then read `references/plan-template.md` and follow it exactly, in its order, writing
-`squad/90-day-plan.md` whole. Two standing amendments. **One: the lane's line and its reasoning
-come from the gate you just ran**, in the founder's own words, and a lane they chose against the
-read is written with the same care as one the data picked. On a resumed run, where the `daily
-lane` row is written but the gate happened in a session that is gone, ask them for that one line
-in the same message as the dates, and never re-grade a lane they already chose. **Two: every week
-number in this file is the term's week number, out of 24, counted off `term day 1`, and the
-last row ends on the day 100 date.** One file, one counting.
-
-**Self-check before the stop.** Every heading the template names is present, the header line
-included, and its `read` and lane slots carry what phase 1 and phase 2 actually found. The four
-different weeks are the lane's own four and no more. The last row lands on the day 100 date, and
-no week prints a numerator above its denominator. Never invent content so a heading can appear:
-a week with nothing true in it stays blank.
-
-**STOP.** Print the plan whole, then ask for two things and nothing more: their yes, and the hour
-of the named calendar block confirmed or changed, which they then put in their own calendar under
-the lane's name. Any line
-they call vague gets rewritten and reprinted; re-print only the lines that changed. The moment the
-yes comes, stamp the header line `confirmed <today's date>`, which is the only record this gate
-happened and what the resume check reads, and write the `term day 1` and `day 100` rows into
-`.claude/squad-roots.md` so no later session recounts them.
-
-## 4 · THE SUPPLY
-
-A lane with nothing to run on stops on day two. Read `references/the-supply.md` and follow it
-exactly, for this lane only: the warm list is spent by now and never reopens, so check the lane's
-own supply and never `squad/cold-list.md` for a founder who is not in OUTREACH. That file owns the
-row labels, the pull cap, the follow-up spacing, the research mode ladder and the per-lane stop.
-
-**STOP at that file's stop.** Only approved supply reaches a morning, and the approved supply is
-written into the week's `## WEEK N` block in `squad/90-day-plan.md`.
-
-## 5 · THE MORNING
-
-The phase they live in, and it is a print rather than a decision. Read `references/the-week.md`,
-the morning half, and follow it exactly: ask for the numbers that are not on this laptop, read
-what is, ask one question, print today's motions and the follow-ups due, and hand them the four
-lines to post once the day is done. Under three minutes, and **no number, no print.**
-
-Work that belongs to another skill gets handed over rather than done here: a reply carrying an ask
-or a price to the close, the week's topic to the winning scrape, the title and thumbnail to the
-proven package, the script to the payoff script, the slides to the presentation.
-
-## 6 · THE SUNDAY
-
-Read `references/the-week.md`, the Sunday half, and follow it exactly: the week's paste, the row,
-the bottleneck off the counts, the algorithm run on the week, then exactly two things handed back,
-one deleted and one changed, written into that week's `## WEEK N` block. **No paste, no row.**
-Then restock next week's supply by phase 4 and to its stop, before Sunday ends.
-
-**The lane does not reopen here,** not before the day 100 date the plan carries. The one exception,
-the first Sunday on or after that date, is written in that same file: it is a fresh run of phases
-1 to 3 into a new section of the plan, not a Sunday.
-
-## The run card lines
-
-The lesson prints these; they are typed as written and they route here.
-
-| The founder types | You run |
+| The drop-off | What is broken |
 |---|---|
-| "Run /the-90-day-plan." | You load, and wait for the next line |
-| "Read my offer document, my warm list and my pipeline. Recommend one lane, and tell me why the other one loses for me." | 1 and 2 |
-| "Read my offer card, my warm list and my pipeline. Recommend one lane, and tell me why the other one loses for me." (the old wording) | 1 and 2 |
-| "Write my 90 day plan." | 3 |
-| "Build what my lane runs on." | 4 |
-| "Run my morning." | 5 |
-| "Run my Sunday." | 6 |
+| sent to replies | OUTREACH: the list, or the first line. CONTENT: the packaging, the title and the picture. ADS: the creative |
+| replies to calls | the ask: there is not one, or answering it costs too much |
+| calls to money | the close: the script, the price line, the follow-up |
 
-This skill lives at `https://github.com/AI-ChrisLee/the-90-day-plan`, downloaded again each season
-rather than kept: an old copy grades a founder against a market that moved.
+Then append to `squad/90-day-plan.md`, under `## SECOND 90 · <today's date>` (THIRD, FOURTH on
+later runs), the block the template names: the header line with the new hours and lane, the three
+lines above, the count recomputed, the block, and thirteen new rows dated on from the week after
+the last row above. Never edit a line above the new heading. Print the block whole.
+
+## 6 · THE YES
+
+**STOP.** The same gate as beat 3: the yes and the block hour. On the yes, stamp the new header
+line `confirmed <date>` and rewrite the `hours a day` and `daily lane` rows in the roots file
+where they changed.
 
 ## Rules
 
-- Every message is scannable: a short header, then a table or short bullets. Grades, weeks and
-  counts go in tables. The founder is deciding, not studying.
-- Evidence over opinion. A counted row beats a remembered one, and a priced call beats a reply.
-- Never a number nobody logged, and never a result predicted. The logged floors are the only
-  thing promised here.
-- Never a menu. One lane, one plan, one print, and the founder's yes or their overrule.
-- Never send a message, publish a piece, load or start a sequence, book a slot or spend a budget
-  on their behalf, and never wire anything that would do it for them.
+- Every message is scannable: a short header, then bullets or a table. The founder is deciding,
+  not studying.
+- Never send a message, publish a piece, load a sequence, book a slot or spend a budget on their
+  behalf, and never wire anything that would.
+- Never price past `squad/business.md`. Nothing here touches a price.
+- Never invent a number, a name or a need. Every number printed is one the founder logged, a file
+  holds, or the arithmetic produced from the hours they said.
+- Never paraphrase a quote. A buyer's line is verbatim, labeled and dated, as the client folder
+  holds it.
+- Never a menu. One lane, one print, and the founder's word.
+- The day is `/bip`'s and the Sunday is `/bip sunday`'s plus the track's read. This skill writes
+  nothing on a Sunday before week 13.

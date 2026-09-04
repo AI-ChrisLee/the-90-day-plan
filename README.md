@@ -1,54 +1,48 @@
 # The 90 Day Plan: install in 60 seconds
 
-The part of an Execution Squad that decides what the next hundred days are. Warm Extract
-listened, the Winning Offer decided, the Close sold your warm list, and now that list is
-spent. This one reads your own evidence, picks ONE lane off it, and writes
-`squad/90-day-plan.md`, the one page the next hundred days run off. After that page exists,
-it is what your morning prints and what your Sunday is written into.
+The part of an Execution Squad that decides how the next 90 days spread. Your offer is
+confirmed, your sales script is written, your shell is built. This one asks how many hours a
+day you have, reads your lane off your own files, and writes `squad/90-day-plan.md`: one page,
+your lane, your weekly count sized to your hours, the hour you run it, and 13 weeks.
 
 ## What to bring
 
-Your own files, and this run opens all of them itself: your offer document at
-`squad/business.md`, your warm call notes at `squad/warm-notes.md`, your pipeline at
-`squad/pipeline.md`, and your call debriefs in `squad/calls/`. Then one paste, because it
-lives in your Google Drive and not on this laptop: your Outreach Sheet's Warm tab, all seven
-columns, every row. No paste and the read still runs off the files alone; it says what that
-costs and the plan carries it on its header line.
+Your own files, and the run opens them itself: `squad/business.md`, the shell in `squad/mep/`,
+your client folders under `squad/clients/`, `squad/pipeline.md`, and your posts in
+`squad/posts/`. Nothing else. If you want your sheet's live rows counted on the floor line,
+paste them in with your answer; nobody asks for them, and the plan says `files only` when you
+did not.
 
 ## Run it
 
-Open Claude Code in your business folder and say: **"Read my offer document, my warm list and my
-pipeline. Recommend one lane, and tell me why the other one loses for me."** (Downloaded this
-folder on its own? Drop the whole thing into `.claude/skills/`, then quit and reopen Claude
-Code.)
+Open Claude Code in your business folder and say: **"/90days"** (or **"Run
+/the-90-day-plan."**). Downloaded this folder on its own? Drop the whole thing into
+`.claude/skills/`, then quit and reopen Claude Code.
 
-It reads what you already have, grades the lanes against it, asks which one you would still
-run on your worst day, and comes back with one recommendation and the reasoning. You can
-overrule it. What you do not get to do is stay undecided. Then it writes the plan, stops for
-your yes and your calendar hour, and builds what the lane actually runs on.
+It asks one question: hours a day for the squad, counting the 30 minutes you already block for
+people. One number. Then it prints your lane with one line on why, and the whole plan under
+it. Say yes and name the hour of your block. Want the other lane? Say the word, and it rewrites
+the plan to that lane with the same care.
 
 Stopped halfway, or closed the laptop? Say **"continue the 90 day plan"** in a new window. It
 reads what is on disk and picks up at the first thing missing.
 
-## The one tool
-
-Apify, and only in the OUTREACH lane, only to pull the cold list off the source you name (a
-directory, a map search, a job board, the followers of one account). The install lesson wires
-it; the `mcp.json.example` in this folder is the same config. Unwired costs you the pulling,
-not the run: you do it by hand off that same named source, or take the export the source
-offers, and hand over the file. Same 200-row cap either way, same cleaning, and nothing here
-installs a tool behind your back. In CONTENT and ADS no tool is used at all.
-
 ## What you get
 
-One page, `squad/90-day-plan.md`, and one lane on it: the daily 100 you can actually run
-today, the floor under it, the weekly shape, the phase gates, and every week out to day 100.
-Then the week's supply approved by you, because only approved supply reaches a morning.
+One page, `squad/90-day-plan.md`: the floor (10 by hand a day, and where the names come
+from), your lane's weekly count as one line of arithmetic, the block hour, the 2 gates, and
+one table of 13 weeks. Every number in it is your hours, the arithmetic, or a count your
+files already hold. It never predicts a result.
 
-After that, two sentences run the hundred days. **"Run my morning"**, under three minutes:
-today's motions, the follow-ups due with drafts under them, and the four lines you post once
-the day is done. **"Run my Sunday"**: the week's row, the one bottleneck, and exactly two
-things back, one deleted and one changed. The lane does not reopen until day 100.
+## Then
 
-It never sends anything, never starts a sequence, never spends a budget. It prepares the day
-and your hand presses send.
+Nothing here until week 13. `/bip` writes the day, `/bip sunday` writes the week, and your
+lane's own read fills the Sunday column. At week 13 say **"/90days improve"**: it reads the 90
+days that happened, prints what to keep, what to kill and the one thing to change, asks your
+hours again, and appends the next 13 weeks under the first.
+
+## Tools
+
+None. No connector, no scrape, no calendar. The `mcp.json.example` in this folder is the
+kit's shared config and this run does not use it. It never sends anything, never starts a
+sequence, never spends a budget. Your hand does the contact.
